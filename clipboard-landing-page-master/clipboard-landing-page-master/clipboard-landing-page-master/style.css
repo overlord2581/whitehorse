@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Ysabeau+Infant:wght@500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.png img{
+    position: sticky;
+}
+
+.logo-principal{
+    text-align: center;
+    position: relative;
+    top: -35vh;
+}
+
+.logo-principal h1{
+    font-family: Ysabeau Infant;
+    font-size: 40px;
+    margin-top: 30px;
+    color: rgb(45, 45, 45);
+}
+
+.logo-principal p{
+    font-family: Ysabeau Infant;
+    color: darkgray;
+    margin-top: 20px;
+}
+
+.logo-principal button{
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    margin-top: 30px;
+    color: white;
+    font-family: Ysabeau Infant;
+}
+
+#ios{
+    background-color: #3aa89b;
+    margin-right: 10px;
+    border-bottom: 3px solid #329186;
+}
+
+#mac{
+    margin-left: 10px;
+    background-color: #204e9c;
+    border-bottom: 3px solid #1b3e7b;
+}
