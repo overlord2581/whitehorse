@@ -1,0 +1,237 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@600&display=swap');
+    
+*{border: none;}
+
+body{
+  background-image: url(./images/bg-header-desktop.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+.box{
+  
+  width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 32px;
+  text-align: center;
+}
+
+.img{
+  margin-top: 75px;
+}
+
+h1{
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 600;
+}
+
+p{
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 400;
+  color: rgb(183, 182, 182);
+}
+
+button{
+  height: 30px;
+  width: 150px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.bnt{
+  background-color: hsl(171, 66%, 44%);
+ 
+}
+
+.bnt-2{
+  background-color:hsl(233, 100%, 69%);
+  
+}
+
+.bnt:hover{
+  box-shadow: rgb(45, 168, 127) 3px 3px 3px;
+}
+
+.bnt-2:hover{
+  box-shadow: hsl(233, 58%, 46%)3px 4px 3px;
+}
+
+.div{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.principal{
+  margin-top: 150px;
+  text-align: center;
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.conteudo_secundario{
+  width: 400px;
+  margin-left: 20px;
+  margin-top: -150px;
+}
+
+.img-3{
+  max-width: 100%;
+  height: auto;
+}
+
+section h1{
+  font-size: 20px;
+}
+
+section p{
+  font-size: 15px;
+}
+
+.principal-2{
+  text-align: center;
+  margin-top: 260px;
+}
+
+.img2{
+  margin-top: 100px;
+  margin-left: 200px;
+}
+
+.supercharger{
+  text-align: center;
+}
+
+.icones{    
+text-align: center;
+margin-top: 100px;
+}
+
+.icone1{
+  margin-right: 800px;
+}
+
+.icones h1{
+  font-size: 17px;
+}
+
+.icones p{
+  font-size: 15px;
+}
+
+.icone2{
+  margin-top: -150px;
+  margin-left: 20px;
+}
+
+.icone3{
+  margin-left: 800px;
+  margin-top:-140px ;
+}
+
+.icones2{
+  margin-top: 100px;
+  height: 40px;
+  display: flex;
+
+}
+
+.google{
+  margin-left: 120px;
+}
+
+.ibm{
+  margin-left: 60px;
+}
+
+.microsoft{
+  margin-left: 60px;
+}
+
+.hp{
+  margin-left: 60px;
+}
+
+.vector{
+  margin-left: 60px;
+}
+
+.ios{
+  text-align: center;
+  margin-top: 40px;
+}
+
+footer{
+  margin-top: 20px;
+}
+
+.div-footer{
+background-color: rgba(237, 237, 237, 0.9) ;
+height: 100px;
+}
+
+.imgfooter{
+display: flex;
+gap: 52px;
+margin-left: 170px;
+margin-top: -50px;
+}
+
+.footltr{
+margin-top: 15px;
+margin-left: 170px;
+display: flex;
+gap: 30px;
+}
+
+.miniC{
+margin-top: 30px;
+width: 42px;
+margin-left: 90px;
+}
+
+.social-face{
+margin-left: 1050px;
+margin-top: -30px;
+}
+
+.social-twt{
+margin-left: 1100px;
+margin-top: -26px;
+}
+
+.social-insta{
+margin-left: 1150px;
+margin-top: -26px;
+}
+
+.social-face path:hover{
+fill: hsl(171, 66%, 44%);
+animation-delay: 0.5s;
+transition-duration: 0.3s;
+}
+
+.social-twt path:hover{
+fill: hsl(171, 66%, 44%);
+animation-delay: 0.5s;
+transition-duration: 0.3s;
+}
+
+.social-insta path:hover{
+fill: hsl(171, 66%, 44%);
+animation-delay: 0.5s;
+transition-duration: 0.3s;
+}
+
+.attribution{
+margin-top: -5px;
+background-color: rgba(237, 237, 237, 0.9);
+}
